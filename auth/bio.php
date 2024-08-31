@@ -14,4 +14,4 @@ $_SESSION["age"] = $_GET['age'];
 print_r($_SESSION);
 ?>
 
-<a href = "./personal.php">Go to Personal</a>
+<a href = "./personal.php"><p>Go to Personal</p></a>
